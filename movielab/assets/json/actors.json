@@ -1,0 +1,61 @@
+{
+  "actors": 
+  [
+    {
+      "id": 1,
+      "name": "Anya Taylor-Joy",
+      "characterName": "Beth Harmon",
+      "bio": "Anya Taylor-Joy stars as Beth Harmon, a chess prodigy who battles addiction while rising to the top of the chess world.",
+      "imageUrl": "https://the-queens-gambit.fandom.com/wiki/Beth_Harmon"
+    },
+    {
+      "id": 2,
+      "name": "Thomas Brodie-Sangster",
+      "characterName": "Benny Watts",
+      "bio": "Thomas Brodie-Sangster portrays Benny Watts, a skilled chess player who becomes a mentor and friend to Beth.",
+      "imageUrl": "https://the-queens-gambit.fandom.com/wiki/Benny_Watts"
+    },
+    {
+      "id": 3,
+      "name": "Marielle Heller",
+      "characterName": "Alma Wheatley",
+      "bio": "Marielle Heller plays Alma Wheatley, Beth's adoptive mother who supports her chess career despite her own struggles.",
+      "imageUrl": "https://the-queens-gambit.fandom.com/wiki/Alma_Wheatley"
+    },
+    {
+      "id": 4,
+      "name": "Harry Melling",
+      "characterName": "Harry Beltik",
+      "bio": "Harry Melling plays Harry Beltik, a former state champion who helps Beth improve her game and becomes romantically involved with her.",
+      "imageUrl": "https://the-queens-gambit.fandom.com/wiki/Harry_Beltik"
+    },
+    {
+      "id": 5,
+      "name": "Bill Camp",
+      "characterName": "Mr. Shaibel",
+      "bio": "Bill Camp portrays Mr. Shaibel, the janitor who first teaches Beth how to play chess in the basement of the orphanage.",
+      "imageUrl": "https://rus.team/images/article/26535/2018-01-12-402_50408-1_171070.webp"
+    },
+    {
+      "id": 6,
+      "name": "Moses Ingram",
+      "characterName": "Jolene",
+      "bio": "Moses Ingram plays Jolene, Beth's close friend from the orphanage who provides emotional support and encouragement.",
+      "imageUrl": "https://the-queens-gambit.fandom.com/wiki/Jolene"
+    },
+    {
+      "id": 7,
+      "name": "Chloe Pirrie",
+      "characterName": "Alice Harmon",
+      "bio": "Chloe Pirrie portrays Alice Harmon, Beth's biological mother whose tragic story deeply impacts Beth's life.",
+      "imageUrl": "https://static.wikia.nocookie.net/the-queens-gambit/images/2/2b/AliceHarmon.jpg/revision/latest?cb=20210214115512"
+    },
+    {
+      "id": 8,
+      "name": "Jacob Fortune-Lloyd",
+      "characterName": "D.L. Townes",
+      "bio": "Jacob Fortune-Lloyd plays D.L. Townes, a chess player and journalist who becomes a romantic interest for Beth.",
+      "imageUrl": "https://static.wikia.nocookie.net/the-queens-gambit/images/7/74/Townes_S1.jpg/revision/latest?cb=20201106072215"
+    }
+  ]
+}

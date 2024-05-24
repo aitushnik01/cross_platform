@@ -1,0 +1,39 @@
+{
+  "staff": [
+      {
+          "id": 1,
+          "name": "Scott Frank",
+          "role": "Creator, Writer, Director",
+          "description": "Scott Frank is the creator, writer, and director of The Queen's Gambit, known for his captivating storytelling and direction that brought the novel to life on screen.",
+          "imageUrl": "https://yandex.kz/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fwww.hollywoodreporter.com%2Fwp-content%2Fuploads%2F2021%2F01%2FGettyImages-972817324-H-2021-1610647104.jpg&text=Scott+Frank&rpt=simage&lr=163"
+      },
+      {
+          "id": 2,
+          "name": "Allan Scott",
+          "role": "Creator, Writer",
+          "description": "Allan Scott co-created and wrote The Queen's Gambit, contributing to the series' narrative depth and character development.",
+          "imageUrl": "https://yandex.kz/images/search?text=Allan+Scott&pos=0&rpt=simage&img_url=https%3A%2F%2Fdiziday1.com%2Fwp-content%2Fuploads%2F2022%2F07%2FAllan-Scott-d36b75bb31c513f96e3460c8f31ac8a5.jpg&from=tabbar&lr=163"
+      },
+      {
+          "id": 3,
+          "name": "William Horberg",
+          "role": "Executive Producer",
+          "description": "William Horberg served as an executive producer on The Queen's Gambit, overseeing the production and ensuring its high standard of quality.",
+          "imageUrl": "https://yandex.kz/images/search?text=William+Horberg&pos=0&rpt=simage&img_url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FM%2FMV5BMTQ2NDAxNzE4N15BMl5BanBnXkFtZTcwMTkyNTgyOQ%40%40._V1_.jpg&from=tabbar&lr=163"
+      },
+      {
+          "id": 4,
+          "name": "Marcus Loges",
+          "role": "Executive Producer",
+          "description": "Marcus Loges played a key role as an executive producer, contributing to the series' development and success.",
+          "imageUrl": "https://yandex.kz/images/search?text=Marcus+Loges&pos=0&rpt=simage&img_url=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAATXAJyiv3Dj0ukAjsofIyh_I2rZXDs2f_vcUIXG5w%3Ds900-c-k-c0xffffffff-no-rj-mo&from=tabbar&lr=163"
+      },
+      {
+          "id": 5,
+          "name": "Scott Rudin",
+          "role": "Executive Producer",
+          "description": "Scott Rudin was an executive producer on The Queen's Gambit, bringing his expertise to the production.",
+          "imageUrl": "https://yandex.kz/images/search?text=Scott+Rudin&pos=2&rpt=simage&img_url=https%3A%2F%2Fsun9-63.userapi.com%2Fimpg%2F811oO8bsu-HxiTUA3tSJglpQNw-cXJO91DDAag%2Fs-vfOfTxVCg.jpg%3Fsize%3D450x300%26quality%3D96%26sign%3D9f77d9350680900711fb9eb5432ee371%26type%3Dalbum&from=tabbar&lr=163"
+      }
+  ]
+}
